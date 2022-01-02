@@ -1,0 +1,4 @@
+- 👋 Hi,Pruthvi here
+- 📚 Computer Engineering student
+- 🌱 I’m currently learning Flutter
+- 📫 Email- pruthvikp8613@gmail.com
