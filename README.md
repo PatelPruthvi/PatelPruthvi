@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pruthvi Patel</h1>
-<h3 align="center">"Final-year computer engineering student at CHARUSAT. Skilled in Flutter for both front-end and back-end development.</h3>
+<h3 align="center">Final-year computer engineering student at CHARUSAT. Skilled in Flutter for both front-end and back-end development.</h3>
 
 - 🌱 I’m currently learning **Flutter**
 
