@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Pruthvi Patel</h1>
 <h3 align="center">Final-year computer engineering student at CHARUSAT. Skilled in Flutter for both front-end and back-end development.</h3>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently developing in **Flutter**
 
 - 📫 How to reach me **pruthvikp8613@gmail.com**
 
-- ⚡ Fun fact **I like to travel a lot**
+- ⚡ Fun fact **Love Volleyball🏐, Aspire to travel to new places**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
